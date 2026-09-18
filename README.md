@@ -1,21 +1,12 @@
 ## Hello, I'm Keynes. Welcome to my GitHub! 
 
-*Data Analytics Fellow @COOP Careers. Building a career in music & entertainment analytics. DJ under the name DJ Key.*
+*Data Analytics Fellow @COOP Careers. Building a career in entertainment analytics. DJ under the name DJ Key.*
 
 ## About Me
 
 I'm a UC Berkeley Economics grad with minors in Data Science and Journalism, currently a Data Analytics Fellow at COOP Careers. I recently supported live production for the Super Bowl LX Halftime Show, and I bring that same analytical rigor to music and entertainment through DJing under the name DJ Key and my involvement with GRAMMY U.
 
 I'm working toward a full-time data analyst role in entertainment, whether that's music, sports, or media, using data to help brands and audiences understand each other better.
-
-Check out my full project breakdown in [Analytics-Portfolio](https://github.com/keynesle/Analytics-Portfolio).
-
-## Projects
-
-A few I'm proud of:
-
-- **[NBA Salary Determinants](https://github.com/keynesle/Analytics-Portfolio)** — Built a regression model in R to identify on-court performance as the strongest driver of NBA player pay.
-- **[Cook County Housing Price Prediction](https://github.com/keynesle/Analytics-Portfolio)** — Built a machine learning model in Python that uncovered a 15–20% pricing bias hidden by otherwise strong overall accuracy.
 
 📫 Reach me at lekeynes1@gmail.com | [LinkedIn](https://linkedin.com/in/keynesle) | [Portfolio site](https://keynesle.com)
 ## Table of Contents
