@@ -2,13 +2,6 @@
 
 *Data Analytics Fellow @COOP Careers. Building a career in entertainment analytics. DJ under the name DJ Key.*
 
-## About Me
-
-I'm a UC Berkeley Economics grad with minors in Data Science and Journalism, currently a Data Analytics Fellow at COOP Careers. I recently supported live production for the Super Bowl LX Halftime Show, and I bring that same analytical rigor to music and entertainment through DJing under the name DJ Key and my involvement with GRAMMY U.
-
-I'm working toward a full-time data analyst role in entertainment, whether that's music, sports, or media, using data to help brands and audiences understand each other better.
-
-📫 Reach me at lekeynes1@gmail.com | [LinkedIn](https://linkedin.com/in/keynesle) | [Portfolio site](https://keynesle.com)
 ## Table of Contents
 
 * [About](#about)
