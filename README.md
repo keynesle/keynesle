@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-* [About](#about)
+* [About Me](#about-me)
 * [Skills](#skills)
 * [Projects](#projects)
   * [NBA Salary Determinants](#nba-salary-determinants)
