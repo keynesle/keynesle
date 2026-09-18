@@ -23,11 +23,11 @@
 * [Contact & Links](#contact--links)
 
 ## About Me
-I'm Keynes (pronounced Key-eans), a UC Berkeley graduate in Economics with minors in Data Science and Journalism, focused on using data to understand human behavior and communicate insights through clear, structured storytelling. My work spans machine learning, econometric analysis, and data-driven projects, with an emphasis on turning analysis into actionable insight rather than just prediction.
+I'm Keynes (pronounced Key-eans), a UC Berkeley graduate in Economics with minors in Data Science and Journalism, currently a Data Analytics Fellow at COOP Careers. My work spans machine learning, econometric analysis, and data-driven projects, with an emphasis on turning analysis into actionable insight rather than just prediction.
 
-Alongside my academic work, I've gained experience in live and culture-driven environments, including supporting production for the Super Bowl LX Halftime Show and contributing to music and entertainment initiatives centered on audience engagement. These experiences have shaped how I approach analytics, viewing it not just as numbers but as part of larger systems where timing, coordination, and decision-making matter. I'm particularly interested in applying data analysis within the music and entertainment industry, exploring how audience insights, trends, and behavior can inform strategy and creative direction.
+Alongside my fellowship, I've gained experience in live and culture-driven environments, including supporting production for the Super Bowl LX Halftime Show, DJing, and active participation in GRAMMY U's LA Chapter. These experiences have shaped how I approach analytics, viewing it not just as numbers but as part of larger systems where timing, coordination, and audience behavior matter. I'm particularly interested in applying data analysis within the entertainment industry, exploring how audience insights and behavior can inform strategy and creative direction.
  
-This repository highlights my work across Python and R projects in econometrics, machine learning, and audience research, with a growing focus on music and entertainment analytics.
+This repository highlights my work across Python and R projects in econometrics, machine learning, and audience research, with a growing focus on entertainment analytics.
  
 For a broader view of my work across culture, live production, and creative projects, visit my [personal website](https://keynesle.com).
 
