@@ -42,7 +42,7 @@ For a broader view of my work across culture, live production, and creative proj
  
 September 2025 - December 2025
 
-[Read the full paper (PDF)](https://github.com/keyle2112/Analytics-Portfolio/blob/main/assets/Labor%20Economics%20NBA%20Salary%20Determinants%20Project.pdf)
+[Read the full paper (PDF)](https://github.com/keynesle/Analytics-Portfolio/blob/main/assets/Labor%20Economics%20NBA%20Salary%20Determinants%20Project.pdf)
  
 **Description:** Applied econometric regression techniques to analyze salary determinants for 269 NBA players from the 1994-95 season. Used log-transformed salary data to address skewness and incorporated performance metrics, experience, position, and race as explanatory variables. Evaluated how on-court productivity translated into wages using both simple and multivariate OLS models.
  
@@ -66,7 +66,7 @@ November 2025 - December 2025
  
 **Results:** The model achieved over 90% accuracy with an AUC of 0.943, optimized through multiple iterations of hyperparameter tuning. Precision-recall analysis was used to balance spam detection against the risk of blocking legitimate mail.
  
-![ROC curve for the logistic regression spam classifier, AUC 0.943](assets/Email_Spam_ROC_Curve.png)
+![ROC curve for the logistic regression spam classifier, AUC 0.943](https://raw.githubusercontent.com/keynesle/Analytics-Portfolio/main/assets/Email_Spam_ROC_Curve.png)
  
 *The curve maps the tradeoff between catching spam and wrongly flagging real mail. The steep climb near the left edge means roughly 80% of spam can be caught while while wrongly flagging under 10% of legitimate messages*
  
@@ -84,7 +84,7 @@ October 2025
  
 **Results:** Achieved strong predictive performance through K-fold cross-validation and metric comparison (RMSE vs. MAPE). Identified a 15-20% overestimation bias in lower-priced neighborhoods that aggregate accuracy alone concealed.
  
-![RMSE and percentage of homes overestimated, both plotted across log sale price intervals](assets/Cook_County_Fairness_Graph.png)
+![RMSE and percentage of homes overestimated, both plotted across log sale price intervals](https://raw.githubusercontent.com/keynesle/Analytics-Portfolio/main/assets/Cook_County_Fairness_Graph.png)
  
 *RMSE is lowest at the bottom of the price range, which makes the model look accurate there. The right panel shows the opposite: nearly 100% of the cheapest homes are overvalued, while under 10% of the most expensive ones are.*
  
@@ -94,7 +94,7 @@ October 2025
  
 January 2025 - May 2025
  
-[Read the full paper (PDF)](https://github.com/keyle2112/Analytics-Portfolio/blob/main/assets/Minimum%20Wage%20Policy%20%26%20Foreign%20Investment.pdf)
+[Read the full paper (PDF)](https://github.com/keynesle/Analytics-Portfolio/blob/main/assets/Minimum%20Wage%20Policy%20%26%20Foreign%20Investment.pdf)
  
 **Description:** Conducted panel econometric analysis examining how minimum wage policies and labor availability influence FDI inflows in Southeast Asia. Integrated datasets from ILOSTAT and the World Bank, controlling for macroeconomic variables, and applied fixed effects models to isolate labor policy impacts.
  
@@ -110,7 +110,7 @@ January 2025 - May 2025
  
 April 2025 - May 2025
  
-[Read the full paper (PDF)](https://github.com/keyle2112/Analytics-Portfolio/blob/main/assets/Econ%20148%20Climate%20Change%20%26%20Civil%20Conflict.pdf)
+[Read the full paper (PDF)](https://github.com/keynesle/Analytics-Portfolio/blob/main/assets/Econ%20148%20Climate%20Change%20%26%20Civil%20Conflict.pdf)
  
 **Description:** Constructed a panel dataset integrating climate, agricultural, and conflict data to analyze how environmental shocks influence civil conflict risk. Applied fixed effects regression to isolate temperature and precipitation effects while controlling for country and time factors, replicating a foundational climate-conflict economics study.
  
@@ -134,8 +134,8 @@ February 2025 - March 2025
  
 **Results:** Found no statistically significant negative impact on wages despite a 7% labor force increase, supporting the conclusions of the original study.
  
-![Log wages in Miami versus comparison cities from 1979 to 1985, split by demographic group](assets/Mariel_Boatlift_Trends.png)
- 
+![Log wages in Miami versus comparison cities from 1979 to 1985, split by demographic group](https://raw.githubusercontent.com/keynesle/Analytics-Portfolio/main/assets/Mariel_Boatlift_Trends.png)
+
 *Miami and the comparison cities rise together both before and after the 1980 boatlift, marked by the dashed line. That continued parallel movement is what makes the absence of a wage effect credible rather than coincidental.*
  
 **Impact:** A worked example of using a natural experiment to establish causation where correlation would mislead.
@@ -152,7 +152,7 @@ February 2025
  
 **Results:** Identified stronger post-2008 recovery in coastal regions than in the Midwest, with growth concentrated in urban and tech-driven areas.
  
-![County-level percentage change in real GDP across the United States in 2002, 2008, and 2020](assets/regional-gdp-maps-2002-2008-2020.png)
+![County-level percentage change in real GDP across the United States in 2002, 2008, and 2020](https://raw.githubusercontent.com/keynesle/Analytics-Portfolio/main/assets/regional-gdp-maps-2002-2008-2020.png)
  
 *Three snapshots on a shared color scale. Mapping every county turns a national average into a geography and shows how unevenly each period was distributed across the country.*
  
@@ -162,7 +162,7 @@ February 2025
  
 November 2024 - December 2024
  
-[Read the full paper (PDF)](https://github.com/keyle2112/Analytics-Portfolio/blob/main/assets/Econometrics%20Analysis%20of%20MLB%20Salary%20Disparities.pdf)
+[Read the full paper (PDF)](https://github.com/keynesle/Analytics-Portfolio/blob/main/assets/Econometrics%20Analysis%20of%20MLB%20Salary%20Disparities.pdf)
  
 **Description:** Analyzed MLB salary determinants using regression models to evaluate the impact of race, city demographics, and performance metrics. Applied econometric techniques to control for confounding variables and explored potential bias and omitted variable effects.
  
@@ -186,7 +186,7 @@ April 2024
  
 **Results:** Improved classification accuracy through feature selection and distance tuning, identifying the word associations driving genre prediction.
  
-![Movies plotted by the frequency of the words water and feel, colored by genre](assets/Classifying_Movies_Graph.png)
+![Movies plotted by the frequency of the words water and feel, colored by genre](https://raw.githubusercontent.com/keynesle/Analytics-Portfolio/main/assets/Classifying_Movies_Graph.png)
  
 *Each film becomes a point in keyword space. Adding The Silence of the Lambs to the training set moves the nearest neighbor of the unlabeled film, flipping its predicted genre from comedy to thriller.*
  
@@ -204,7 +204,7 @@ March 2024 - April 2024
  
 **Results:** Identified statistically significant warming trends across cities and measurable differences in precipitation during drought periods.
  
-![Average maximum and minimum temperatures across U.S. cities from 1896 to 2020](assets/Temperature_Trends_1900-2020.png)
+![Average maximum and minimum temperatures across U.S. cities from 1896 to 2020](https://raw.githubusercontent.com/keynesle/Analytics-Portfolio/main/assets/Temperature_Trends_1900-2020.png)
  
 *Both daily highs and daily lows trend upward across 120 years, but nighttime lows climb far more sharply after 1960, rising roughly 10 degrees while daytime highs rise about 5.*
  
@@ -222,7 +222,7 @@ March 2024 - April 2024
  
 **Results:** Runs alone explained 61% of variation in wins. Adding runs allowed raised this to 79%, and log transformations across runs, runs allowed, doubles, and saves reached 94%.
  
-![Team runs scored plotted against season wins, with fitted regression line](assets/Runs_vs_Wins_Graph.png)
+![Team runs scored plotted against season wins, with fitted regression line](https://raw.githubusercontent.com/keynesle/Analytics-Portfolio/main/assets/Runs_vs_Wins_Graph.png)
  
 *The small cluster in the lower left is the shortened 2020 COVID season, a reminder that structural breaks in the data can distort a fitted line if left unexamined.*
  
@@ -240,13 +240,15 @@ February 2024
  
 **Results:** Identified strong relationships between development indicators and population dynamics, with clear patterns in global poverty reduction.
  
-![Distribution of children per woman across countries in 1962 compared with 2010](assets/Fertility_1962_vs_2010.png)
+![Distribution of children per woman across countries in 1962 compared with 2010](https://raw.githubusercontent.com/keynesle/Analytics-Portfolio/main/assets/Fertility_1962_vs_2010.png)
  
 *In 1962 the distribution peaked near six or seven children per woman. By 2010 it had collapsed toward two, one of the largest demographic shifts ever recorded.*
  
 **Impact:** Early practice in using visualization to find which relationships across 145 countries were worth modeling formally, before committing to a specification.
  
 ## Education
+**COOP Careers** — Data Analytics Fellowship<br>
+July 2026 - Expected December 2026
 
 **University of California, Berkeley** — College of Letters and Science<br>
 Bachelor of Arts, Economics | Minors in Data Science and Journalism<br>
@@ -260,17 +262,3 @@ August 2021 - May 2023
 * **Email:** [lekeynes1@gmail.com](mailto:lekeynes1@gmail.com)
 * **LinkedIn:** [linkedin.com/in/keynesle](https://www.linkedin.com/in/keynesle/)
 * **Website:** [keynesle.com](https://keynesle.com/)
-<!--
-**keynesle/keynesle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
