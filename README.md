@@ -42,7 +42,7 @@ For a broader view of my work across culture, live production, and creative proj
  
 September 2025 - December 2025
 
-[Read the full paper (PDF)](assets/Labor%20Economics%20NBA%20Salary%20Determinants%20Project.pdf)
+[Read the full paper (PDF)](Labor%20Economics%20NBA%20Salary%20Determinants%20Project.pdf)
  
 **Description:** Applied econometric regression techniques to analyze salary determinants for 269 NBA players from the 1994-95 season. Used log-transformed salary data to address skewness and incorporated performance metrics, experience, position, and race as explanatory variables. Evaluated how on-court productivity translated into wages using both simple and multivariate OLS models.
  
