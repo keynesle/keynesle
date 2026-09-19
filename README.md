@@ -34,7 +34,7 @@ For a broader view of my work across culture, live production, and creative proj
 ## Skills 
 * **Languages**: SQL, Tableau, Python (pandas, scikit-learn, NumPy, matplotlib, geopandas, statsmodels), R (tidyverse)
 * **Tools**: Excel (Pivot Tables, VLOOKUP)
-* **Methods**: Econometric modeling, causal inference, panel data and fixed effects, regression analysis, hypothesis testing, machine learning, feature engineering, fairness analysis, geospatial analysis
+* **Methods**: Econometric modeling, regression analysis, hypothesis testing, machine learning, feature engineering, fairness analysis
 
 ## Projects
  
